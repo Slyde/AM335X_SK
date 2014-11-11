@@ -1,0 +1,8 @@
+bitbake.lock
+buildhistory/
+cache/
+downloads/
+sstate-cache/
+tmp-eglibc/
+conf/sanity_info
+conf/templateconf.cfg
