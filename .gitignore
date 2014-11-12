@@ -6,3 +6,5 @@ sstate-cache/
 tmp-eglibc/
 conf/sanity_info
 conf/templateconf.cfg
+tmp
+tmp-eglibc/
